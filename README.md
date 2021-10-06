@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=379172)](mailto:darkknight131714@gmail.com)
 
 <h1 align = "center"> Hey! I am Gautam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1> 
-<h3 align="center"> A Competitive Coder and a Beginner in Front-end WebDevelopment  </h3>
+<h3 align="center"> A Sed and Depressed Gamer who lost the will to game.  </h3>
 
 
 <h3 align="center">Languages and tools I use:</h3>
@@ -17,7 +17,7 @@
 <div align="center" style="text-align=center; background-color:white">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://flutter.dev/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg" alt="flutter" width="40" height="40"/> </a> 
 <!--   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> -->
 <!--   <a href="https://expressjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> </a> -->
 <!--   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>  -->
