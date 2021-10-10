@@ -10,6 +10,17 @@
 <h1 align = "center"> Hey! I am Gautam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1> 
 <h3 align="center"> A Sed and Depressed Gamer who has lost the will to game. I guess I am just Sed and Depressed Now.  </h3>
 
+## &#x1f4c8; GitHub Stats
+
+
+<a href="https://github.com/Darkknight131714/Darkknight131714">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkknight131714&htitle_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a> 
+<a href="https://github.com/Darkknight131714/Darkknight131714">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darkknight131714&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gautam's GitHub Stats" />
+</a>
+
+<img align="center" src="https://komarev.com/ghpvc/?username=Darkknight131714" />
 
 <h3 align="center">Languages and tools I use:</h3>
 
