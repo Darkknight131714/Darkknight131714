@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/GMail-informational?style=for-the-badge&logo=gmail&logoColor=white&color=379172)](mailto:darkknight131714@gmail.com)
 
 <h1 align = "center"> Hey! I am Gautam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px"></h1> 
-<h3 align="center"> I am a flutter developer with LITTLE interest in Web-development. When I am not engaged with flutter, I am usually asleep or playing Games.</h3>
+<h3 align="center"> I am a flutter developer with LITTLE interest in Web-development. When I am not engaged with flutter, I am usually asleep or playing Games.New Update: I hate Web Development</h3>
 
 ## &#x1f4c8; GitHub Stats
 
